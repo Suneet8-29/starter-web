@@ -7,6 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Objective
-Make people understand the work flow
-
+Make people understand the work flow and educate them on repositories
 
