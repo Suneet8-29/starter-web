@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Objective
 Make people understand the work flow and educate them on repositories
 
+#status
+stop readme at working or untracked
